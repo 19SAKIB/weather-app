@@ -1,0 +1,54 @@
+body {
+    background-image: url('../../image/cloud.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.inputBox input {
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    padding: 0 10px;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+
+.noData {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 40px;
+    text-transform: capitalize;
+}
+
+
+
+.info .location {
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+
+.temp-desc {
+    text-transform: capitalize;
+    font-size: larger;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.tempIcon {
+    height: 40px;
+    width: 50px;
+}
+
+.time {
+    font-size: 20px;
+    font-weight: 600;
+
+}
